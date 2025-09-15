@@ -1,0 +1,12 @@
+AI USAGE JOURNAL
+Jayden Williams
+Jviator@terpmail.umd.edu    
+Section 0201
+Week 1
+
+This week I used Gemini for the first time. It seems like a pretty good AI response program. I mainly used it for 
+documentation and for clarification on syntax in Python. Normally I use ChatGPT, but this time I tried giving Gemini 
+and Claude a chance. Chat, GPT and other AI’s have been a recurring topic for me this week as my other classes have also 
+talked about AI and the ethics and values in different talking points and concerns. People have it. I’ve come to view AI 
+more as a tool now. As I’ve had discussions backing that claim. I also used it to make a gym schedule which it completed 
+pretty well.
