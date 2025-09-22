@@ -10,3 +10,12 @@ and Claude a chance. Chat, GPT and other AI’s have been a recurring topic for 
 talked about AI and the ethics and values in different talking points and concerns. People have it. I’ve come to view AI 
 more as a tool now. As I’ve had discussions backing that claim. I also used it to make a gym schedule which it completed 
 pretty well.
+
+
+Week 2
+This week I used AI to help me with problem solving problems. I used it as a helpful tool while working on my Python exercises.
+I asked for hints, code snippets, and explanations that helped me understand how to approach each problem and then completed the
+code. It helped me understand the right way to structure list operations and conditionals in the right synatx from sources like 
+w3school or online python help websites to help me understand syntax in python. I also used Grok to explain some math concepts 
+I was struggling to understand, so this allowed me better understand problems where I didn't fully grasp what the question
+was asking. 
