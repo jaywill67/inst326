@@ -17,5 +17,12 @@ This week I used AI to help me with problem solving problems. I used it as a hel
 I asked for hints, code snippets, and explanations that helped me understand how to approach each problem and then completed the
 code. It helped me understand the right way to structure list operations and conditionals in the right synatx from sources like 
 w3school or online python help websites to help me understand syntax in python. I also used Grok to explain some math concepts 
-I was struggling to understand, so this allowed me better understand problems where I didn't fully grasp what the question
-was asking. 
+I was struggling to understand, so this allowed me better understand problems where I didn't fully grasp what the question was asking. 
+
+Week 3
+This week I used gemini to help explain new python concepts I didn't understand. It was a great experience and allowed to easily 
+understand all the concepts I needed to understand to complete my week 3 exercise. Luckily the provided examples allowed me to 
+easily intergrate my new found knowledge onto the week exercises and complete it quickly. Gemini was luckily very responsive today and 
+offered alternative responses and examples if I still didn't graps the information provided. The link to this chat is located at this 
+URL link: https://g.co/gemini/share/22e54ef918f0 . I was debating with trying claude this time but I wanted to give gemini another chance
+to see how it compares in it's coding ability and understanding. Next week I do plan to attempt using Claude with assisting my python understanding.
