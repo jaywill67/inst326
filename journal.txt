@@ -26,3 +26,9 @@ easily intergrate my new found knowledge onto the week exercises and complete it
 offered alternative responses and examples if I still didn't graps the information provided. The link to this chat is located at this 
 URL link: https://g.co/gemini/share/22e54ef918f0 . I was debating with trying claude this time but I wanted to give gemini another chance
 to see how it compares in it's coding ability and understanding. Next week I do plan to attempt using Claude with assisting my python understanding.
+
+Week 4 
+This week I again used gemini by google to help explain python concepts that I didn't fully understand. Gemini has been a very helpful tool
+as well as the speed of it's responses is very fast even if my questions are specific or need extra thinking. The examples and outputs
+it generated assisted me greatly in learning and comprehending the content I was coding, especially with the new content that I didn't 
+fully grasp that quickly. The link to this chat is located at this URL link: https://gemini.google.com/share/97172734167e .
