@@ -32,3 +32,9 @@ This week I again used gemini by google to help explain python concepts that I d
 as well as the speed of it's responses is very fast even if my questions are specific or need extra thinking. The examples and outputs
 it generated assisted me greatly in learning and comprehending the content I was coding, especially with the new content that I didn't 
 fully grasp that quickly. The link to this chat is located at this URL link: https://gemini.google.com/share/97172734167e .
+
+Week 5
+This week, I relied on this Gemini conversation to clarify Python concepts I didn’t fully understand. The responses were quick or even for specific
+or tricky questions and the examples and outputs we worked through here helped me grasp the new material and apply it to my code. This thread captures 
+the discussion and how it supported my learning. The url located for my chat is at: https://gemini.google.com/share/e0772e34a134
+
