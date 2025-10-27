@@ -38,3 +38,6 @@ This week, I relied on this Gemini conversation to clarify Python concepts I did
 or tricky questions and the examples and outputs we worked through here helped me grasp the new material and apply it to my code. This thread captures 
 the discussion and how it supported my learning. The url located for my chat is at: https://gemini.google.com/share/e0772e34a134
 
+Week 6
+This week I decided to use Google Gemini's ai chatbot to ask for help in concepts, context, and clarifying the Python coding I was working on. The responses were assisting me and helped in numerous ways. I mainly just asked for examples, outputs, sample code, and how to use the code I was working on. This allowed to easily complete the exercises and allowed me to work through the material and understand it. This thread is the discussion I had with Gemini to support in my learning and completing of the exercises. The url located for my chat is here: https://gemini.google.com/share/b002c10607bc
+
