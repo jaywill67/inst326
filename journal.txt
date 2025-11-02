@@ -45,3 +45,7 @@ to easily complete the exercises and allowed me to work through the material and
 my learning and completing of the exercises. The url located for my chat is here: https://gemini.google.com/share/b002c10607bc
 
 
+Week 7
+For Week 7, I used Google Gemini’s AI chatbot to get help with Python concepts, context, and clarification. I mostly asked for examples, sample code, expected outputs, 
+and guidance on using the code I was writing. The responses were helpful and let me finish the exercises while deepening my understanding of the material. 
+You can find the chat thread here: https://gemini.google.com/share/807131a40a3c
