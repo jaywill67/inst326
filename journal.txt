@@ -49,3 +49,8 @@ Week 7
 For Week 7, I used Google Gemini’s AI chatbot to get help with Python concepts, context, and clarification. I mostly asked for examples, sample code, expected outputs, 
 and guidance on using the code I was writing. The responses were helpful and let me finish the exercises while deepening my understanding of the material. 
 You can find the chat thread here: https://gemini.google.com/share/807131a40a3c
+
+Week 8 
+On the week of week 8, I again used Google's AI gemini chat response ai prompting system. I used it as an assistant or essentially a helper to lightly guide gudie me through the python coding and completing the 
+exercise. I now have the response which now allows me to complete the exercises and furthering my knowledge on the concepts worked upon this week. It luckily didn't overstep and stuck to material I asked it to,
+so I didn't even have to explicitly say avoid week 9 material. The chat thread for this week can be located at this URL: https://gemini.google.com/share/88ddd77c1d94
