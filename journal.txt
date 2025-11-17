@@ -56,5 +56,7 @@ exercise. I now have the response which now allows me to complete the exercises 
 so I didn't even have to explicitly say avoid week 9 material. The chat thread for this week can be located at this URL: https://gemini.google.com/share/88ddd77c1d94
 
 Week 9 
-During week 9, I again used Google’s Gemini AI chat response / prompting system. I used it as an assistant or helper to lightly guide me through the Python coding and completing the exercises. I now have the responses, which helped me complete the exercises and further my knowledge of the concepts we worked on this week. It luckily didn’t overstep and stuck to the material I asked it about, so I didn’t even have to explicitly say to avoid week 10 material. The chat thread for this week can be located at this URL:
+During week 9, I again used Google’s Gemini AI chat response / prompting system. I used it as an assistant or helper to lightly guide me through the Python coding and completing the exercises. I now have the responses, which helped me complete the exercises and further my knowledge of the concepts we worked on this week. It luckily didn’t overstep and stuck to the material I asked it about, so I didn’t even have
+to explicitly say to avoid week 10 material. The chat thread for this week can be located at this URL: https://gemini.google.com/share/8d6ffaf4663a
+
 
