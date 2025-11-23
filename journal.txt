@@ -59,4 +59,6 @@ Week 9
 During week 9, I again used Google’s Gemini AI chat response / prompting system. I used it as an assistant or helper to lightly guide me through the Python coding and completing the exercises. I now have the responses, which helped me complete the exercises and further my knowledge of the concepts we worked on this week. It luckily didn’t overstep and stuck to the material I asked it about, so I didn’t even have
 to explicitly say to avoid week 10 material. The chat thread for this week can be located at this URL: https://gemini.google.com/share/8d6ffaf4663a
 
+Week 10
+In week 10, I continued using Google’s Gemini AI chat tool as a support resource. I treated it like a coding assistant, asking it for light guidance while working through the Python exercises. I’ve saved the replies it generated, which I then used to finish the assignments and deepen my understanding of this week’s concepts. The chat for this week is available at the following link: https://gemini.google.com/share/074ffa231a47
 
