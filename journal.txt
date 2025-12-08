@@ -62,3 +62,10 @@ to explicitly say to avoid week 10 material. The chat thread for this week can b
 Week 10
 In week 10, I continued using Google’s Gemini AI chat tool as a support resource. I treated it like a coding assistant, asking it for light guidance while working through the Python exercises. I’ve saved the replies it generated, which I then used to finish the assignments and deepen my understanding of this week’s concepts. The chat for this week is available at the following link: https://gemini.google.com/share/074ffa231a47
 
+Week 11 
+N/A 
+
+Week 12
+During week 12, I just used AI in my day to day life. Planning to use it help me plan a proper strategy to complete my final project and make sure I complete it on time with all my other assignments and projects
+but still completing everything on schedule.
+
